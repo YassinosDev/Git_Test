@@ -8,4 +8,4 @@ i make this Repo just for test
 
 I just love **world**
 
-A*cat*meow
+A *cat* meow
